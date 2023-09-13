@@ -2,7 +2,7 @@
 """Defines unittests for console.py.
 Unittest classes:
     TestHBNBCommand_prompting
-    TestHBNBCommand_hel
+    TestHBNBCommand_help
     TestHBNBCommand_exit
     TestHBNBCommand_create
     TestHBNBCommand_show
