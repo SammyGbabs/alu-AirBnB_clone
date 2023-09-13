@@ -23,7 +23,7 @@ Create a new object (ex: a new User or a new Place)
 	- Destroy an object
 
 ## Execution
-Your shell should work like this in interactive mode:
+The shell should work like this in interactive mode:
 ```
 $ ./console.py
 (hbnb) help
